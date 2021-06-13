@@ -23,6 +23,9 @@ The input image is classiﬁed as one of the mentioned classes.
 
 ### Architecture 
 
+<p align="center">
+    <img src="Architecture/Architecture.PNG" width="512"/>
+</p>
 
 ### Results
 
